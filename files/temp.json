@@ -1,0 +1,21 @@
+{
+    "status": {
+        "Math": false,
+        "Russian": false,
+        "English": false,
+        "SecondForeign": false,
+        "Literature": false,
+        "History": false,
+        "SocialScience": false,
+        "ClassHour": false,
+        "PE": false,
+        "OBZR": false,
+        "Chemistry": false,
+        "Biology": false,
+        "Physics": false,
+        "Geography": false,
+        "IT": false,
+        "WAC": false
+    },
+    "text": ""
+}
