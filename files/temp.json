@@ -1,21 +1,21 @@
 {
     "status": {
-        "Math": false,
-        "Russian": false,
-        "English": false,
-        "SecondForeign": false,
-        "Literature": false,
-        "History": false,
-        "SocialScience": false,
-        "ClassHour": false,
-        "PE": false,
-        "OBZR": false,
-        "Chemistry": false,
-        "Biology": false,
-        "Physics": false,
-        "Geography": false,
-        "IT": false,
-        "WAC": false
+        "Math": true,
+        "Russian": true,
+        "English": true,
+        "SecondForeign": true,
+        "Literature": true,
+        "History": true,
+        "SocialScience": true,
+        "ClassHour": true,
+        "PE": true,
+        "OBZR": true,
+        "Chemistry": true,
+        "Biology": true,
+        "Physics": true,
+        "Geography": true,
+        "IT": true,
+        "WAC": true
     },
     "text": ""
 }
