@@ -15,11 +15,9 @@ School Diary (в переводе с английского "Школьный д
 
 Пример работы программы
 --
-![Меню настроек](screenshots-for-examples/settings_menu.png) <br>
-_Выбор школьных предметов_
-
-![Основное меню](screenshots-for-examples/main_menu.png) <br>
-_Основное окно_
-
-![Функционал основного меню](screenshots-for-examples/functions.png) <br>
-_Фильтр предметов по названию и запись домашнего задания_
+_Выбор школьных предметов_  
+![Меню настроек](screenshots-for-examples/settings_menu.png)  
+_Основное окно_  
+![Основное меню](screenshots-for-examples/main_menu.png)  
+_Фильтр предметов по названию и запись домашнего задания_  
+![Функционал основного меню](screenshots-for-examples/functions.png)
